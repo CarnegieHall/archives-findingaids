@@ -4,6 +4,8 @@
 
 The Carnegie Hall Archives preserves, catalogs and describes thousands of concert programs, posters and flyers, audio and video recordings, photographs, musical manuscripts and autographs, administrative files, and architectural drawings that tell the story of the musicians, politicians, and world figures who have appeared in more than 45,000 events since 1891.
 
+To learn more about the Carnegie Hall Archives, visit www.carnegiehall.org/About/History
+
 ## COLLECTIONS
 
 ### GENERAL COLLECTIONS 
