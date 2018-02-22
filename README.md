@@ -59,7 +59,7 @@ Television broadcasts, commercial releases, documentaries, B-roll footage, newsr
 
 ### Named Collections
 #### AT&T Presents Carnegie Hall Tonight Collection
-AT&T Presents Carnegie Hall Tonight was a radio and television music program produced at Carnegie Hall from 1978 to 1988. The collection includes correspondence and financial materials that document the program’s production.
+**[Finding Aid](/namedcolls-fa/attPresents.html)** | AT&T Presents Carnegie Hall Tonight was a radio and television music program produced at Carnegie Hall from 1978 to 1988. The collection includes correspondence and financial materials that document the program’s production.
 
 #### Blaine Littell Collection
 Material collected by Walter Damrosch, who played a significant role in the building of Carnegie Hall, including autographed cabinet cards of Pyotr Ilych Tchaikovsky, a letter from Franz Liszt, and other items
