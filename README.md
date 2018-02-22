@@ -6,6 +6,8 @@ The Carnegie Hall Archives preserves, catalogs and describes thousands of concer
 
 Learn more about the [Carnegie Hall Archives](www.carnegiehall.org/About/History) or explore past events on the [Carnegie Hall Performance History Search](https://launch.carnegiehall.org/PerformanceHistorySearch/).
 
+Questions? Email us at **Archives@carnegiehall.org**.
+
 ## COLLECTIONS
 
 ### GENERAL COLLECTIONS 
