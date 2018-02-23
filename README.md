@@ -18,65 +18,65 @@ Questions? Email us at **Archives@carnegiehall.org**.
 
 ### GENERAL COLLECTIONS 
 #### Architectural Drawings Collection
-Drawings from the architects and firms associated with Carnegie Hall, including William Burnet Tuthill, Kahn & Jacobs (Ely Jacques Kahn & Robert Allan Jacobs), John J. McNamara, and James Stewart Polshek
+Drawings from the architects and firms associated with Carnegie Hall, including William Burnet Tuthill, Kahn & Jacobs (Ely Jacques Kahn & Robert Allan Jacobs), John J. McNamara, and James Stewart Polshek.
 
 #### Artwork Collection
-Sculpture, paintings, and sketches on a wide range of subjects by tenants and other artists
+Sculpture, paintings, and sketches on a wide range of subjects by tenants and other artists.
 
 #### Batons Collection
-More than 20 batons from conductors such as Arturo Toscanini, Herbert von Karajan, Otto Klemperer, and Leonard Bernstein
+More than 20 batons from conductors such as Arturo Toscanini, Herbert von Karajan, Otto Klemperer, and Leonard Bernstein.
 
 #### Booking Ledgers Collection
-Fifty-two ledgers used to schedule performances in all three halls from 1955 to 2007
+Fifty-two ledgers used to schedule performances in all three halls from 1955 to 2007.
 
 #### Bottles Collection
-Beer, medicine, and toiletry bottles associated with the businesses in or near Carnegie Hall 
+Beer, medicine, and toiletry bottles associated with the businesses in or near Carnegie Hall.
 
 #### Correspondence and Autographs Collection
-More than 200 items from Marian Anderson, Leonard Bernstein, Samuel Clemens (Mark Twain), Noël Coward, Franz Liszt, Leopold Stokowski, and others
+More than 200 items from Marian Anderson, Leonard Bernstein, Samuel Clemens (Mark Twain), Noël Coward, Franz Liszt, Leopold Stokowski, and others.
 
 #### Ephemera and Objects Collection
-More than 300 items, ranging from a scarf worn by Isadora Duncan, Carnegie Hall Tavern matchbooks, and original Edison light bulbs from the Hall, to Carnegie Hall–themed sheet music, commemorative postage stamps, and more
+More than 300 items, ranging from a scarf worn by Isadora Duncan, Carnegie Hall Tavern matchbooks, and original Edison light bulbs from the Hall, to Carnegie Hall–themed sheet music, commemorative postage stamps, and more.
 
 #### Manuscripts Collection
-Scores, musical quotations, letters, autographs, and calling cards from composers whose music has been performed at Carnegie Hall
+Scores, musical quotations, letters, autographs, and calling cards from composers whose music has been performed at Carnegie Hall.
 
 #### Periodicals
-More than 200 newspapers, clippings, and magazines that contain reviews of events, advertisements, images, and stories about Carnegie Hall, including complete newspapers for the opening of the Hall in 1891
+More than 200 newspapers, clippings, and magazines that contain reviews of events, advertisements, images, and stories about Carnegie Hall, including complete newspapers for the opening of the Hall in 1891.
 
 #### Photographs Collection
-Images documenting the visual history of Carnegie Hall, including building and event photos from 1891 to the present
+Images documenting the visual history of Carnegie Hall, including building and event photos from 1891 to the present.
 
 #### Posters Collection
-Promotional flyers, window cards, and large posters from a variety of Carnegie Hall events dating from the 1890s
+Promotional flyers, window cards, and large posters from a variety of Carnegie Hall events dating from the 1890s.
 
 #### Programs Collection
-Printed concert programs from 1891 to the present, documenting performances from all of Carnegie Hall’s stages
+Printed concert programs from 1891 to the present, documenting performances from all of Carnegie Hall’s stages.
 
 #### Recordings Collection
-Recordings of one-time performances by many of the world’s greatest musicians, including commercial releases, archival study recordings, and radio broadcasts in formats that range from acetate and vinyl discs to analog and digital audio tape to compact discs
+Recordings of one-time performances by many of the world’s greatest musicians, including commercial releases, archival study recordings, and radio broadcasts in formats that range from acetate and vinyl discs to analog and digital audio tape to compact discs.
 
 #### Tenants and Studios Collection
-A variety of material relating to the tenants and studios of Carnegie Hall, including sketches by artist Hilla von Rebay and correspondence and sketches of illustrator Frederick Stuart Church
+A variety of material relating to the tenants and studios of Carnegie Hall, including sketches by artist Hilla von Rebay and correspondence and sketches of illustrator Frederick Stuart Church.
 
 #### Tickets Collection
-More than 800 tickets from Carnegie Hall events from 1891 to the present, including a ticket from Opening Night on May 5, 1891
+More than 800 tickets from Carnegie Hall events from 1891 to the present, including a ticket from Opening Night on May 5, 1891.
 
 #### Video Collections
-Television broadcasts, commercial releases, documentaries, B-roll footage, newsreel clips, and archival study videos that document many of Carnegie Hall’s historic events 
+Television broadcasts, commercial releases, documentaries, B-roll footage, newsreel clips, and archival study videos that document many of Carnegie Hall’s historic events.
 
 ### NAMED COLLECTIONS
 #### AT&T Presents Carnegie Hall Tonight Collection 📄
 **[Finding Aid](/namedcolls-fa/attPresents.html)** | AT&T Presents Carnegie Hall Tonight was a radio and television music program produced at Carnegie Hall from 1978 to 1988. The collection includes correspondence and financial materials that document the program’s production.
 
 #### Blaine Littell Collection
-Material collected by Walter Damrosch, who played a significant role in the building of Carnegie Hall, including autographed cabinet cards of Pyotr Ilych Tchaikovsky, a letter from Franz Liszt, and other items
+Material collected by Walter Damrosch, who played a significant role in the building of Carnegie Hall, including autographed cabinet cards of Pyotr Ilych Tchaikovsky, a letter from Franz Liszt, and other items.
 
 #### Geiger Collection of Modern Composers 📝
-**[Inventory](/namedcolls-fa/geiger.md)** | Questionnaires from 60 composers for a 1934 edition of Baker’s Biographical Dictionary of Musicians, including Alban Berg, Jean Sibelius, Anton Webern, and Edgard Varèse
+**[Inventory](/namedcolls-fa/geiger.md)** | Questionnaires from 60 composers for a 1934 edition of Baker’s Biographical Dictionary of Musicians, including Alban Berg, Jean Sibelius, Anton Webern, and Edgard Varèse.
 
 #### Hermann Hans Wetzler Collection 📄
-**[Finding Aid](/namedcolls-fa/wetzler.html)** | Correspondence, programs, a flyer, and a subscription proposal for Wetzler Symphony Concerts at Carnegie Hall, 1902‒1904
+**[Finding Aid](/namedcolls-fa/wetzler.html)** | Correspondence, programs, a flyer, and a subscription proposal for Wetzler Symphony Concerts at Carnegie Hall, 1902‒1904.
 
 #### John Totten Collection 📄
 **[Finding Aid](/namedcolls-fa/johnTotten.html)** | John Totten began his career at Carnegie Hall in 1903 as an usher, frequently escorting Andrew Carnegie to his box in the Main Hall. He worked his way up through the ranks to become house manager in 1927, a position he held until his retirement in 1968. This collection consists of autographed photos, Totten’s autograph book, and business records.
