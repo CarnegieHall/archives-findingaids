@@ -67,7 +67,7 @@ Television broadcasts, commercial releases, documentaries, B-roll footage, newsr
 Material collected by Walter Damrosch, who played a significant role in the building of Carnegie Hall, including autographed cabinet cards of Pyotr Ilych Tchaikovsky, a letter from Franz Liszt, and other items
 
 #### Geiger Collection of Modern Composers
-Questionnaires from 60 composers for a 1934 edition of Baker’s Biographical Dictionary of Musicians, including Alban Berg, Jean Sibelius, Anton Webern, and Edgard Varèse
+**[Inventory](/namedcolls-fa/geiger.md)** | Questionnaires from 60 composers for a 1934 edition of Baker’s Biographical Dictionary of Musicians, including Alban Berg, Jean Sibelius, Anton Webern, and Edgard Varèse
 
 #### Hermann Hans Wetzler Collection
 **[Finding Aid](/namedcolls-fa/wetzler.html)** | Correspondence, programs, a flyer, and a subscription proposal for Wetzler Symphony Concerts at Carnegie Hall, 1902‒1904
