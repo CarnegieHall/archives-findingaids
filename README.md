@@ -2,14 +2,14 @@
 
 ## OVERVIEW 
 
-The Carnegie Hall Archives preserves, catalogs and describes thousands of concert programs, posters and flyers, audio and video recordings, photographs, musical manuscripts and autographs, administrative files, and architectural drawings that tell the story of the musicians, politicians, and world figures who have appeared in more than 45,000 events since 1891.
+The Carnegie Hall Archives preserves, catalogs and describes thousands of concert programs, posters and flyers, audio and video recordings, photographs, musical manuscripts and autographs, administrative files, and architectural drawings that tell the story of the musicians, politicians, and world figures who have appeared in more than 50,000 events since 1891.
 
 Learn more about the [Carnegie Hall Archives](https://www.carnegiehall.org/About/History) or explore past events on the [Carnegie Hall Performance History Search](https://launch.carnegiehall.org/PerformanceHistorySearch/).
 
 ### LEGEND
 📄 - Finding aid available
 
-📝 - Inventory or other description available
+📝 - Collection guide, inventory or other descriptive document available
 
 ### CONTACT US
 Questions? Email us at **Archives@carnegiehall.org**.
@@ -78,6 +78,9 @@ Material collected by Walter Damrosch, who played a significant role in the buil
 #### Hermann Hans Wetzler Collection 📄
 **[Finding Aid](/namedcolls-fa/wetzler.html)** | Correspondence, programs, a flyer, and a subscription proposal for Wetzler Symphony Concerts at Carnegie Hall, 1902‒1904.
 
+### Isaac A. Hopper Collection 📝
+**[Collection Guide](/namedcolls-fa/hopper.pdf)** | Isaac A. Hopper was the owner of the construction company that built Carnegie Hall in 1891,and the collection includes a scrapbook with clippings about his life and career, some photographs of Hopper and his family, an essay by Walter F. Hopper Jr., and with a genealogic tree drawn by Patricia Hopper Strasberg.
+
 #### John Totten Collection 📄
 **[Finding Aid](/namedcolls-fa/johnTotten.html)** | John Totten began his career at Carnegie Hall in 1903 as an usher, frequently escorting Andrew Carnegie to his box in the Main Hall. He worked his way up through the ranks to become house manager in 1927, a position he held until his retirement in 1968. This collection consists of autographed photos, Totten’s autograph book, and business records.
 
@@ -101,3 +104,6 @@ The Music Hall Company of New York was the administrative body of Carnegie Hall 
 
 #### Robert E. Simon Jr. Collection 📄
 **[Finding Aid](/namedcolls-fa/robertSimon.html)** | Robert E. Simon Sr. purchased Carnegie Hall from Louise Carnegie in 1925 and formed Carnegie Hall Inc. to act as the Hall’s administrative body. Upon his death in 1935, his son Robert Simon Jr. became owner and then president of Carnegie Hall Inc. until the sale of the Hall to the City of New York in 1960. This collection contains correspondence, scrapbooks, and board minutes related to Simon’s ownership of Carnegie Hall.
+
+### William Burnet Tuthill 📝
+**[Collection Guide](/namedcolls-fa/tuthill.pdf** | William Burnet Tuthill was the architect of Carnegie Hall and the collection includes the questionnaires he sent to European theaters to inquire about how other theaters and hall were built, a scrapbook with clippings of articles and lithographs of his works, and a series of architectural drawings for the Hall and its renovations.
